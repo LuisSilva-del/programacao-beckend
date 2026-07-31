@@ -12,4 +12,11 @@ const livro2 = {
   estoque: 5,
 };
 
-module.exports = { livro1, livro2 };
+const livro3 = {
+  titulo: "O Programador Pragmático ",
+  autor: "Andrew Hunt e David Thomas",
+  preco: 120.5,
+  estoque: 7,
+};
+
+module.exports = { livro1, livro2, livro3 };
