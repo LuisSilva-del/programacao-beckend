@@ -7,7 +7,7 @@ console.log("");
 // ===== LIVRO 1 — já está pronto, use como modelo =====
 console.log("Titulo: " + estante.livro1.titulo);
 console.log("Autor: " + estante.livro1.autor);
-console.log("Preco: R$ " + estante.livro1.preco);
+console.log("Preco: R$ " + estante.livro1.preco);  
 console.log("Estoque: " + estante.livro1.estoque + " unidades");
 console.log("");
 

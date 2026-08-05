@@ -15,6 +15,7 @@ Curso Técnico em Desenvolvimento de Sistemas — Escola SENAI "Santo Paschoal C
 | #   | Atividade                           | Tema                               |
 | --- | ----------------------------------- | ---------------------------------- |
 | 01  | [Ambiente Node](./01-ambiente-node) | Módulos, objetos e primeiro script |
+| 02  | [POO: classes](./02-poo-classes)     | Classes, métodos e encapsulamento |
 
 ## Projeto do semestre
 
